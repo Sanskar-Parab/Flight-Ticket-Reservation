@@ -8,4 +8,3 @@ The program allows booking tickets, cancelling them, searching using PNR and dis
 Name: Sanskar Parab
 Roll No: 25102A0018
 
-This project is created for academic purpose.
